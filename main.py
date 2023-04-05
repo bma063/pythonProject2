@@ -1,2 +1,2 @@
-print('Hezllo')
-print('0')
+a=9
+print(print(print(a)))
